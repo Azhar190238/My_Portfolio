@@ -198,3 +198,37 @@ font-style: normal;
 font-weight: 700;
 
   }
+  .footer-section{
+    margin-top:100px ;
+    display: flex;
+    background: #FFF8F3;
+    padding:130px 230px ;
+  }
+  .footer-title{
+color: #181818;
+text-align:left;
+font-size: 35px;
+font-weight: 700;
+
+  }
+  .deccription{
+    color: #474747;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+  }
+  .fotter-item{
+    width: 50%;
+  }
+.contact input[type="text"],[type="email"],textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color:#757575;
+    border-radius: 5px;
+    background:  #FFF;
+    border: 0;
+    width: 100%;
+
+}
